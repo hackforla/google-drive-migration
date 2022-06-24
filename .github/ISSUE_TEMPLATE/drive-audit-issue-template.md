@@ -12,7 +12,11 @@ We need to audit the drive so that we can know what files to move and if the rec
 
 ### Action Items
 - [ ] Audit
-   - [ ] start new audit template from copy and add link to resources below
+   - [ ] start new audit template from copy 
+      - [ ] add link to resources below
+      - [ ] rename file to have project name (and remove copy of)
+      - [ ] move file to project drive
+   - [ ] [find program area on Hack for LA website](https://www.hackforla.org/projects/)
    - [ ] add old drive folder link to resources below 
    - [ ] are there files to move 
    - [ ] if no, close issue as completed
