@@ -11,7 +11,6 @@ assignees: ''
 We need to audit the drive so that we can know what files to move and if the receiving end is ready.
 
 ### Action Items
-- [ ] mapping project to drive location (add url to resources)
 - [ ] Audit
    - [ ] start new audit template from copy and add link to resources below
    - [ ] add old drive folder link to resources below 
