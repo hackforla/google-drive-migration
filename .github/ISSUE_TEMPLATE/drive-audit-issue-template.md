@@ -21,6 +21,7 @@ We need to audit the drive so that we can know what files to move and if the rec
    - [ ] are there files to move 
    - [ ] if no, close issue as completed
    - [ ] if yes
+      - [ ] add ETA to comments
       - [ ] add new drive location to resources below
       - [ ] use template to identify files to move
       - [ ] is file structure the same (for where the new files go)
