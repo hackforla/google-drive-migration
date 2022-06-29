@@ -19,7 +19,7 @@ We need to audit the drive so that we can know what files to move and if the rec
       - [ ] add link to resources below
       - [ ] rename file to have project name (and remove copy of)
       - [ ] move file to project drive
-   - [ ] Check program area for project on the spreadsheet (at to resources below)
+   - [ ] Check program area for project on the spreadsheet (add to resources below)
    - [ ] add old drive folder link to resources below 
    - [ ] are there files to move 
    - [ ] if no, close issue as completed
