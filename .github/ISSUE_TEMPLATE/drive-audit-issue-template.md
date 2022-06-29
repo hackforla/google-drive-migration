@@ -11,6 +11,9 @@ assignees: ''
 We need to audit the drive so that we can know what files to move and if the receiving end is ready.
 
 ### Action Items
+- [ ] Does drivemigration@ have access to New Google Drive
+    -  if no, add `label: need shared drive access`
+    -  if yes, continue
 - [ ] Audit
    - [ ] start new audit template from copy 
       - [ ] add link to resources below
@@ -38,3 +41,5 @@ We need to audit the drive so that we can know what files to move and if the rec
  #### Project specific links
 - [project name old GDrive]
 - [project name new GDrive]
+- [project initials: Drive Migration Audit]
+- [older migration template - audit and move info into new template]
