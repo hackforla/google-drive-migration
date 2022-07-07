@@ -26,7 +26,7 @@ We need to audit the drive so that we can know what files to move and if the rec
    - [ ] if yes
       - [ ] add ETA to comments
       - [ ] add new drive location to resources below
-      - [ ] use template to identify files to move
+      - [ ] use worksheet to identify files to move
       - [ ] is file structure the same (for where the new files go)
 - [ ] Engage with product managers
    - [ ] Ask PM to comment their meeting times on this issue 
