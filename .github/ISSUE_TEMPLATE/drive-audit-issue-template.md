@@ -29,6 +29,8 @@ We need to audit the drive so that we can know what files to move and if the rec
       - [ ] use worksheet to identify files to move
       - [ ] is file structure the same (for where the new files go)
 - [ ] Engage with product managers
+   - [ ] Make sure all necessary people are added to the new shared drive (below) 
+      - [ ] Once added, confirm information in worksheet
    - [ ] Ask PM to comment their meeting times on this issue 
    - [ ] Show pm demo of file migration and how to use spreadsheet and teach them permissions
    - [ ] Ask product manager if they are able to communicate with old members to get files moved
