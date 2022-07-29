@@ -7,4 +7,4 @@ Hi everybody- please make sure that you are moving the original files from the o
 For example, - hackforla/expunge-assist#11 has links to several files. This is an old issue and has since been closed, but if these files were needed for reference in the future, clicking on the links will show you a 404 error, and not lead you to the file, if they were duplicated, not moved. There are countless issues like that one with old files that are still important and will be referenced again. Thus, it is imperative that legacy content be migrated from old to new drives, not duplicated, such that we maintain the integrity and ease of access to legacy content. We appreciate your hard work and cooperation.
 
 ### Instructions
-Video: [How to move files you have created](https://vimeo.com/734256976)
+Video: [How to move files you have created](https://vimeo.com/734542825)
