@@ -25,6 +25,4 @@ Once you click add, simply wait for a few moments or reload a few times and "Pow
 
 ---
 ### Roadmaps
-[Roadmap1](https://github.com/hackforla/google-drive-migration/wiki/Roadmap1)
-
-A list of task items to be executed by a new team member.
+This project is currently on hold waiting for a new team member.  When we get one, the place to start is the [Roadmap](https://github.com/hackforla/google-drive-migration/wiki/Roadmap1) page
