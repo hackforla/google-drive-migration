@@ -2,7 +2,7 @@
 name: Drive audit issue template
 about: Template for a Drive Audit issue (Google Drive Migration Project)
 title: 'Drive Audit: [Project Name]'
-labels: ''
+labels: 'feature: Google Drive Migration'
 assignees: ''
 
 ---
@@ -10,39 +10,40 @@ assignees: ''
 ### Overview
 We need to audit the drive so that we can know what files to move and if the receiving end is ready.
 
+### Prerequisite
+-  access to the 1Password vault for Google Drive Migration
+- know your GitHub username and password so that you can use it in a new browser
+
 ### Action Items
-- [ ] Does drivemigration@ have access to New Google Drive
-    -  if no, add `label: need shared drive access`
-    -  if yes, continue
-- [ ] Audit
-   - [ ] start new audit template from copy 
-      - [ ] add link to resources below
-      - [ ] rename file to have project name (and remove copy of)
-      - [ ] move file to project drive
-   - [ ] Check program area for project on the spreadsheet (add to resources below)
-   - [ ] add old drive folder link to resources below 
-   - [ ] are there files to move 
-   - [ ] if no, close issue as completed
-   - [ ] if yes
-      - [ ] add ETA to comments
-      - [ ] add new drive location to resources below
-      - [ ] use worksheet to identify files to move
-      - [ ] is file structure the same (for where the new files go)
-- [ ] Engage with product managers
-   - [ ] Make sure all necessary people are added to the new shared drive (below) 
-      - [ ] Once added, confirm information in worksheet
-   - [ ] Ask PM to comment their meeting times on this issue 
-   - [ ] Show pm demo of file migration and how to use spreadsheet and teach them permissions
-   - [ ] Ask product manager if they are able to communicate with old members to get files moved
-   - [ ] If yes, then assign them the issue 
-   - [ ] Once files moved, close issue with a comment
+- [ ] Log into the hfla-email-all@hackforla.org email and open it in a new chrome profile, so that all your access is through that Chrome window
+
+#### Customize issue
+- [ ] Search in the issue title, in addition to this issue comment. 
+   - [ ] Search for `[Replace PROJECT NAME]`
+   - [ ] Replace with the name of the project (e.g., Expunge Assist)
+   - [ ] Delete the customize issue section (4 prior lines from ```### Customize issue... 4 prior lines```)
+
+#### Prep
+For each of the following items, there are instructions in the wiki.  Copy the instruction for next item to be checked off (must do them in order), to a comment below and then complete the item, and hide the comment. 
+- [ ] [Find Program Area](https://github.com/hackforla/google-drive-migration/wiki/find-program-area)
+- [ ] [Get Old Drive link](https://github.com/hackforla/google-drive-migration/wiki/get-old-drive-link)
+- [ ] [Identify if there are files in the old folder](https://github.com/hackforla/google-drive-migration/wiki/are-there-files-to-move)
+- [ ] [Check that drivemigration@ has access to New Google Drive for this project](https://github.com/hackforla/google-drive-migration/wiki/get-access-to-teams-new-google-drive)
+- [ ] [Get Project Roster link](https://github.com/hackforla/google-drive-migration/wiki/get-project-roster)
+
+#### Audit
+- [ ] [Create Audit Template](https://github.com/hackforla/google-drive-migration/wiki/create-audit-template)
+- [ ] [Perform Drive Migration Audit](https://github.com/hackforla/google-drive-migration/wiki/perform-drive-migration-audit)
+
+#### File Moving
+- [ ] [Invite file owners to our next file moving party](https://github.com/hackforla/google-drive-migration/wiki/invite-owners-to-move-files)
+- [ ] Once file moving party is completed, add a comment about what is outstanding and move to Questions and Review Column
+
 ### Resources/Instructions
-#### Templates and sources
-- [Template for Drive Audit](https://docs.google.com/spreadsheets/d/1uw3SJHe2MOHGaCwbxnanLfqPvggGvLMqBAQloJBNirE/copy)
-- [HfLA old drive structure](https://drive.google.com/drive/u/0/folders/1mRmBMk6nEvylSOiC7l__XCx5qU3g9w-B)
- #### Project specific links
-- [project name old GDrive]
-- [project name new GDrive]
-- [project initials: Drive Migration Audit]
-- Program Area: 
-- [older migration template - audit and move info into new template]
+#### Project specific links
+2.1 Program Area: 
+2.2 [[Replace PROJECT NAME] old GDrive]
+2.3 [[Replace PROJECT NAME] new GDrive]
+2.4 [[Replace PROJECT NAME] Roster]
+2.5 [[Replace PROJECT NAME] Drive Migration Audit]
+2.6 [older migration template - audit and move info into new template]
