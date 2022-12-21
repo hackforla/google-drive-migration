@@ -1,7 +1,7 @@
 ---
 name: Drive audit issue template
 about: Template for a Drive Audit issue (Google Drive Migration Project)
-title: 'Drive Audit: [Project Name]'
+title: 'Drive Audit: [Replace Project Name]'
 labels: 'feature: Google Drive Migration'
 assignees: ''
 
@@ -11,7 +11,7 @@ assignees: ''
 We need to audit the drive so that we can know what files to move and if the receiving end is ready.
 
 ### Prerequisite
--  access to the 1Password vault for Google Drive Migration
+-  access to the 1Password vault for Google Drive Migration (where the email is located)
 - know your GitHub username and password so that you can use it in a new browser
 
 ### Action Items
