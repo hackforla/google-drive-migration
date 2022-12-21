@@ -2,7 +2,9 @@
 name: Drive audit issue template
 about: Template for a Drive Audit issue (Google Drive Migration Project)
 title: 'Drive Audit: [Replace Project Name]'
-labels: 'feature: Google Drive Migration'
+labels: 'feature: Google Drive Migration, status: check if files to move, status:
+  needs audit template, status: needs new drive link, status: needs old drive folder
+  links, status: needs program area, status: needs project roster'
 assignees: ''
 
 ---
@@ -21,7 +23,8 @@ We need to audit the drive so that we can know what files to move and if the rec
 - [ ] Search in the issue title, in addition to this issue comment. 
    - [ ] Search for `[Replace PROJECT NAME]`
    - [ ] Replace with the name of the project (e.g., Expunge Assist)
-   - [ ] Delete the customize issue section (4 prior lines from ```### Customize issue... 4 prior lines```)
+- [ ] Add issue to the project board
+- [ ] Delete the customize issue section (5 lines from ```### Customize issue``` to the end of this line)
 
 #### Prep
 For each of the following items, there are instructions in the wiki.  Copy the instruction for next item to be checked off (must do them in order), to a comment below and then complete the item, and hide the comment. 
