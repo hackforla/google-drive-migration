@@ -1,6 +1,9 @@
 # Google Drive Migration
 - [Google Drive Migration One Sheet](https://docs.google.com/document/d/1lr5UK1k1qR_Ia3KaArQrBPvNhDhFjnBhExX2ssAMLy0/preview)
 
+### Project context
+This project is one of the a variety of initiatives that are applicable to all projects.  Details can be found here: https://github.com/hackforla/admin/wiki/All-Projects-Initiatives/
+
 ---
 Hi everybody- please make sure that you are moving the original files from the old drive to the new one. Please note to not make duplicates of the files, and that you must move the original ones. This is because when we delete legacy content, the links we have to those files will be destroyed.
 
