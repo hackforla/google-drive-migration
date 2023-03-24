@@ -19,7 +19,7 @@ A: Yes, we could, but it we are taking this approach after trying a bunch of dif
 - Some people have multiple email accounts and although we told them which email these files belonged to, when we sent the emails, they still didn't realize the problem and we had to 1-on-1 troubleshoot anyway.
 
 Q: How can I find out more about the google drive migration project<br>
-A:Please read the [Google Drive Migration One Sheet](https://docs.google.com/document/d/1lr5UK1k1qR_Ia3KaArQrBPvNhDhFjnBhExX2ssAMLy0/preview)
+A: Read the [Google Drive Migration One Sheet](https://docs.google.com/document/d/1lr5UK1k1qR_Ia3KaArQrBPvNhDhFjnBhExX2ssAMLy0/preview)
 
 
 ### Instructions
