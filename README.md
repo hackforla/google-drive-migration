@@ -9,6 +9,16 @@ Hi everybody- please make sure that you are moving the original files from the o
 
 For example, - hackforla/expunge-assist#11 has links to several files. This is an old issue and has since been closed, but if these files were needed for reference in the future, clicking on the links will show you a 404 error, and not lead you to the file, if they were duplicated, not moved. There are countless issues like that one with old files that are still important and will be referenced again. Thus, it is imperative that legacy content be migrated from old to new drives, not duplicated, such that we maintain the integrity and ease of access to legacy content. We appreciate your hard work and cooperation.
 
+
+### FAQ
+Q: Can’t you just send me the list.<br>
+A: Yes, we could, but it we are taking this approach after trying a bunch of different ways because it was taking longer to respond to people who experienced problems with the self managed process than to schedule 1-on-1s for everyone.  Also...
+- It always takes longer for the person to move the files by themselves instead of having a 1-on-1 
+- Sometimes people put things in the wrong new location
+- Sometimes, no matter how much we plan, we don’t get your permissions right before we send you the files, and it's easier to troubleshoot that over zoom.
+- Some people have multiple email accounts and although we told them which email these files belonged to, when we sent the emails, they still didn't realize the problem and we had to 1-on-1 troubleshoot anyway.
+
+
 ### Instructions
 Video: [How to move files you have created](https://vimeo.com/734542825)
 
